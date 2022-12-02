@@ -1,0 +1,49 @@
+* {
+    color: blue;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.see {
+    color: red;
+    background-color: black;
+}
+
+#numero {
+    color: darkgreen;
+    border: 2px solid black;
+}
+
+.otro {
+    color: indianred;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+color: red
+}
+
+span {
+    color: red
+}
+
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    color: gold;
+}
+
+h2 {
+    color: brown;
+}
